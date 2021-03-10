@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width:50%" src="https://avatars.githubusercontent.com/u/16505828">
+<!-- <img style="width:50%" src="https://avatars.githubusercontent.com/u/16505828"> -->
 
 # Hello, I'm Seymour Zhang 👋
 
